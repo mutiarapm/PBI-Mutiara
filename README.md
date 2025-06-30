@@ -22,5 +22,12 @@ Repositori ini berisi hasil tugas yang mencakup pembuatan diagram relasi tabel, 
   File data hasil query yang disimpan dalam format CSV.  
   Digunakan untuk keperluan analisis dan visualisasi.
 
+  ### 4. Visualisasi
+  Berikut adalah hasil visualisasi data user churn menggunakan Looker Studio:  
+👉(https://lookerstudio.google.com/reporting/2f5a3cc6-62e8-456d-af22-57124c3715dc)
+
+### 📸 Preview:
+![Dashboard Preview](./assets/churn_dashboard.jpg)
+
 ## Author
 Oleh : **Mutiara Putri Maharani**
