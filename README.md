@@ -8,7 +8,7 @@ Repositori ini berisi hasil tugas yang mencakup pembuatan diagram relasi tabel, 
 
 ### 1. 🧩 Diagram Relasi Tabel
 - `Relationship_tables.drawio`  
-  File asli diagram relasi antar tabel (bisa dibuka di [draw.io](https://app.diagrams.net))
+  File asli diagram relasi antar tabel (bisa dibuka di [draw.io](https://app.diagrams.net/#G1lMLQLsiarYcPtyXEFJXEo2oEdMILdrt7#%7B%22pageId%22%3A%22hLR9I_xpZGgLipjjWObQ%22%7D)))
   
 - `Relationship_tables.drawio.svg`  
   Versi visual (gambar SVG) dari diagram, bisa langsung dilihat di GitHub
@@ -27,7 +27,7 @@ Repositori ini berisi hasil tugas yang mencakup pembuatan diagram relasi tabel, 
 👉(https://lookerstudio.google.com/reporting/2f5a3cc6-62e8-456d-af22-57124c3715dc)
 
 ### 📸 Preview:
-![Dashboard Preview](./assets/churn_dashboard.jpg)
+👉 [Klik untuk melihat: sales_dashboard.pdf](./sales_dashboard.pdf)
 
 ## Author
 Oleh : **Mutiara Putri Maharani**
